@@ -37,5 +37,9 @@ The repository includes the visual assets used by the interface. A dedicated scr
 ## Portfolio Focus
 This project demonstrates visual hierarchy, typography, responsive composition, component-like HTML structure, and polished landing-page presentation.
 
+## Academic Context
+
+This project was developed as part of a front-end development assignment at Route Academy. It was created for educational purposes to practice and apply frontend development concepts in a project-based setting.
+
 ## Author
 Ahmed Khattab — Frontend Developer
